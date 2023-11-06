@@ -1,9 +1,9 @@
 footer {
 
+    height: 60px;
     background-color: #00FF00; 
-    height: 60px; 
+    position: fixed;
     width: 100%;
-    position: fixed;  
     display:flex;
     flex-direction: column; 
     justify-content: center; 

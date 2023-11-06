@@ -2,12 +2,12 @@ html, body {
     height: 100%;
 }
 body {
+    padding: 0px;
     margin: 0px;
-    padding: 0px; 
     color: #484848;
+    display: flex;
     font-size: 14px;
     font-family: Circular, "Helvetica Neue",Helvetica,Arial,sans-serif;
-    display: flex;
     flex-direction: column;
 }
 .container {

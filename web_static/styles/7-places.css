@@ -1,13 +1,13 @@
 .places {
     font-size: 30px;
-    display: flex;
     flex-wrap: wrap;
+    display: flex;
     justify-content: center;
 }
 
 .places h1 {
-    width: 100%;
     font-size: 30px;
+    width: 100%;
 }
 
 article { 
