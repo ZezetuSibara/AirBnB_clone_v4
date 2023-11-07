@@ -5,17 +5,17 @@
 }
 
 .places h1 {
-    width: 100%;
     font-size: 30px;
+    width: 100%;
 }
 
 article {
+    margin: 20px 20px 20px 20px;
     width: 390px;
     padding: 20px;
-    margin: 20px 20px 20px 20px;
+    position: relative;
     border: 1px solid #AA0004;
     border-radius: 4px;
-    position: relative;
     z-index: -1;
 }
 

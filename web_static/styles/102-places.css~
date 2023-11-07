@@ -5,17 +5,17 @@
 }
 
 .places h1 {
-    width: 100%;
     font-size: 30px;
+    width: 100%; 
 }
 
 article {
-    width: 390px;
-    padding: 20px;
     margin: 20px 20px 20px 20px;
+    width: 390px;
     border: 1px solid #FF5A5F;
-    border-radius: 4px;
+    padding: 20px;
     position: relative;
+    border-radius: 4px;
     z-index: -1;
 }
 
@@ -149,8 +149,8 @@ article>h2 {
       padding-top: 5%;
     }
     .price_by_night {
-        position: static;
         width: 20%;
+        position: static;
         min-width: 65px;
         display: flex;
         justify-content: center;

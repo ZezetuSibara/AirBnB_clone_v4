@@ -1,12 +1,12 @@
 .filters {
     background-color: white;
-    height: 70px;
     border: 1px solid #575757;
+    height: 70px;
+    position: relative;
     border-radius: 4px;
     display: flex;  
     align-items: center;
-    position: relative;
-    
+        
 }
 
 .filters button {
@@ -131,9 +131,9 @@ div:hover > .popover {
         margin: 2px 7px;
     }
     .locations h4,  .amenities h4{
+        margin: 2px 7px;
         font-weight: 400;
-        font-size: 0.9em;
-        margin: 2px 7px;    
+        font-size: 0.9em;    
     }
     .filters .locations ul {
         padding: 0.1em;
